@@ -1,1 +1,1 @@
-Raft implementation for distributed systes
+Raft implementation for distributed systems
